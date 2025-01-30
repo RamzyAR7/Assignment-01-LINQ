@@ -1,0 +1,15 @@
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\bin\Debug\net8.0\Assignment 01 LINQ.exe
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\bin\Debug\net8.0\Assignment 01 LINQ.deps.json
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\bin\Debug\net8.0\Assignment 01 LINQ.runtimeconfig.json
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\bin\Debug\net8.0\Assignment 01 LINQ.dll
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\bin\Debug\net8.0\Assignment 01 LINQ.pdb
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.AssemblyInfoInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.AssemblyInfo.cs
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.sourcelink.json
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.dll
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\refint\Assignment 01 LINQ.dll
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.pdb
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\Assignment 01 LINQ.genruntimeconfig.cache
+C:\Users\Ahmed Ramzy\source\repos\Assignment 01 LINQ\Assignment 01 LINQ\obj\Debug\net8.0\ref\Assignment 01 LINQ.dll
